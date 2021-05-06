@@ -1,0 +1,1 @@
+Para ejecutar el archivo correspondiente a la tarea 3 solo es necesario que vaya ejecutando las partes que quiera de manera individual o compilar todo el archivo y ejecutarlo.
